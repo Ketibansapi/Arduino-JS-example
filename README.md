@@ -12,7 +12,7 @@ of the Johnny-Five documentation.
 
 ## Workflow
 ![johnny-five2](https://user-images.githubusercontent.com/42229194/55285720-5b769a80-53bb-11e9-93bc-34c3b3629640.png)
-From resource [here] (http://site2site.github.io/lectures/week3/binary.html)
+From resource [here](http://site2site.github.io/lectures/week3/binary.html)
 
 ## Run
 > npm install johnny-five
